@@ -2,7 +2,7 @@
 
 ---
 
-## 📢 Sorumluluk Reddi (Türkçe)
+## 📢 Sorumluluk Reddi 
 - Bu uygulamanın yanlış kullanımından tamamen siz sorumlusunuz.
 - Uygulama **richtine1337** tarafından geliştirilmiştir.
 - Uygulama tamamen açık kaynaklıdır ve geliştirmeye açıktır.
@@ -18,7 +18,7 @@
 
 ---
 
-## 📢 Disclaimer (English)
+## 📢 Disclaimer 
 - You are fully responsible for any misuse of this application.
 - This app is made by **richtine1337**.
 - It is completely open-source and open to development.

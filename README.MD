@@ -36,7 +36,7 @@
 ---
 
 ### 💻 Open Source / Açık Kaynak
-Projemiz tamamen açık kaynak kodludur. Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın. 😊
-This project is completely open-source. If you'd like to contribute, feel free to open a pull request or an issue. 😊  
+- Projemiz tamamen açık kaynak kodludur. Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın. 😊
+- This project is completely open-source. If you'd like to contribute, feel free to open a pull request or an issue. 😊  
 ---
 📄 License / Lisans: [MIT](LICENSE)
